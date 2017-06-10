@@ -1,0 +1,39 @@
+body {
+	background-color: #3333CC;
+}
+
+.tips {
+	font-family: cursive;
+	color: #FFCC00;
+}
+
+#myform {
+	width: 500px; height: 300px;
+	border: 1px solid #808080;
+	background-color: #FFCC00;
+}
+
+fieldset {
+	margin-top: 50px;
+}
+
+.box {
+	background-color: #33CC00;
+	display: inline;
+	margin-right: 10px;
+	border: 1px solid;
+	color: #3333CC;
+}
+
+.box, .ti {
+	font-family: cursive;
+}
+
+.text {
+	margin: 10px;
+	display: block
+}
+
+.BTN {
+	margin: 10px
+}

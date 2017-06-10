@@ -1,0 +1,43 @@
+body {
+	background-color: #3333CC;
+}
+
+#form {
+	left: 20%;
+	position: absolute;
+	background-color: #FFCC00;
+	top: 15%;
+	width: 500px;
+	box-shadow: 5px 5px 5px #33CC00;
+}
+
+.ti {
+	font-family: cursive;
+}
+
+.box {
+	display: inline;
+	border: 1px solid;
+	line-height: 30px;
+	font-family: cursive;
+	color: #3333CC;
+	background-color: #33CC00;
+}
+
+.input {
+	margin: 5px 0px 20px 10px;
+}
+
+.BTN {
+	position: relative;
+	left: 80%;
+}
+
+em, .hide {
+	opacity: 0;
+}
+
+.infotext {
+	opacity: 1;
+	color: blue;
+}
